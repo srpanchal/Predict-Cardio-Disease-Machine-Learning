@@ -1,0 +1,251 @@
+id,age,gender,height,weight,ap_hi,ap_lo,cholesterol,gluc,smoke,alco,active
+47997,20222,Men,156,57.0,110,70,Normal,Normal,0,1,0
+15311,18079,Men,160,60.0,120,80,Normal,Normal,0,0,1
+44269,20279,Women,170,80.0,140,69,Normal,Normal,0,0,1
+91373,23227,Men,158,80.0,160,90,High,Normal,0,0,1
+9686,20461,Men,158,92.0,140,90,Normal,Above Normal,0,0,0
+1564,18027,Men,158,90.0,130,90,Normal,Normal,0,0,0
+60628,19223,Men,157,65.0,125,80,Normal,Normal,0,0,0
+99060,21003,Men,151,72.0,140,90,High,High,0,0,1
+96070,20546,Women,166,56.0,120,70,Normal,Normal,0,0,1
+86836,22087,Men,156,63.0,130,70,Normal,Normal,0,0,1
+17513,22148,Women,170,81.0,150,80,Above Normal,Normal,1,1,1
+16796,17754,Men,157,60.0,110,70,Normal,Normal,0,0,1
+21314,21932,Women,182,85.0,100,70,Normal,Normal,0,0,1
+96606,20324,Men,155,70.0,120,80,Normal,Normal,0,0,1
+32843,19556,Men,147,46.0,150,100,Normal,Normal,0,0,1
+78227,17113,Women,166,56.0,150,100,Above Normal,Normal,1,1,1
+33090,18253,Women,174,84.0,130,80,Normal,Normal,0,0,1
+36708,14545,Women,184,84.0,130,70,Normal,Normal,0,0,1
+78633,16630,Men,165,75.0,100,60,Normal,Normal,0,0,1
+69338,16158,Women,175,80.0,120,80,Normal,Normal,1,0,1
+39014,22114,Men,156,112.0,130,80,Normal,Normal,0,0,1
+56543,18243,Men,156,68.0,135,95,Normal,Normal,0,0,0
+57600,18434,Men,164,63.0,140,90,High,Normal,0,0,0
+21357,21869,Men,145,60.0,110,80,Normal,Normal,0,0,1
+63211,19022,Men,168,62.0,110,80,Normal,Normal,0,0,1
+85716,21174,Men,160,98.0,160,110,High,High,0,0,1
+19259,23208,Men,151,50.0,138,84,Normal,Normal,0,0,0
+79548,17297,Men,158,74.0,120,80,Normal,Normal,0,1,1
+33077,22457,Men,154,90.0,145,90,Above Normal,Above Normal,0,0,1
+27802,15863,Men,160,75.0,150,90,Above Normal,Normal,0,0,0
+97100,18387,Men,154,61.0,110,90,Normal,Normal,0,0,1
+8169,15995,Women,176,73.0,120,90,Normal,Normal,0,0,0
+28766,16653,Men,164,62.0,110,70,Normal,Normal,0,0,1
+11653,19843,Women,171,75.0,150,100,Above Normal,Normal,0,0,1
+89934,21215,Women,159,71.0,120,80,Normal,Normal,0,0,0
+35657,20348,Women,164,64.0,140,90,Normal,Normal,1,1,1
+78400,16747,Men,163,112.0,170,90,Normal,Normal,0,0,0
+75312,19554,Women,180,74.0,110,60,Normal,Normal,0,0,1
+65233,16296,Men,168,79.0,120,80,Normal,Normal,0,0,1
+98395,21857,Women,172,80.0,130,90,Normal,Normal,0,0,1
+26062,22585,Women,176,75.0,120,70,Normal,Normal,1,0,1
+33590,16760,Men,158,55.0,110,70,Normal,Normal,0,0,1
+66614,21643,Men,151,59.0,120,80,Normal,Normal,0,0,1
+60131,14715,Men,163,63.0,120,80,Above Normal,Normal,0,0,1
+63717,21240,Women,166,83.0,150,80,High,High,0,0,1
+81040,19691,Women,166,80.0,120,80,Normal,Normal,0,0,1
+35909,18971,Men,162,53.0,100,70,Normal,Normal,0,0,1
+4223,14583,Men,168,61.0,140,90,Normal,Normal,0,0,0
+97922,21925,Men,159,61.0,130,90,Normal,Normal,0,0,1
+86693,22485,Men,170,67.0,130,70,Normal,Normal,0,0,1
+8836,15321,Men,167,60.0,100,80,Normal,Normal,1,0,0
+75521,18378,Women,178,76.0,120,80,Normal,High,0,0,1
+26882,18251,Men,163,72.0,100,80,Normal,Normal,0,0,1
+35308,18859,Men,162,123.0,140,90,Above Normal,Normal,0,0,1
+68150,19746,Women,168,67.0,110,92,Normal,Normal,0,0,1
+88553,14580,Men,164,67.0,150,80,High,Normal,0,0,1
+35721,16685,Women,170,104.0,140,90,Normal,Normal,0,0,0
+7614,15150,Men,160,93.0,133,86,Normal,Normal,0,0,0
+60206,18841,Women,163,75.5,110,70,Normal,Above Normal,1,0,1
+87121,23379,Men,164,87.0,120,80,Normal,Normal,0,0,1
+53128,20599,Women,165,62.0,120,80,Normal,Normal,1,0,1
+95607,15917,Women,172,98.0,120,80,Normal,Normal,0,0,0
+20303,18885,Men,168,68.0,120,80,Normal,Normal,0,0,1
+40274,21090,Men,160,54.0,135,90,Normal,Normal,0,0,1
+98374,22694,Men,168,79.0,160,100,Normal,Normal,0,0,1
+20436,15972,Men,162,80.0,110,80,Normal,Normal,0,0,1
+44851,22736,Men,156,56.0,120,70,Normal,Normal,0,0,1
+22794,20493,Men,167,78.0,120,80,Above Normal,Normal,0,0,1
+27795,22836,Men,154,65.0,120,80,Normal,Normal,0,0,1
+54055,14736,Men,158,54.0,120,80,Normal,Normal,0,0,1
+93228,21651,Men,169,70.0,140,90,High,Normal,0,0,1
+127,15946,Women,185,88.0,133,89,Above Normal,High,0,0,1
+91032,18806,Women,162,56.0,150,100,Above Normal,Above Normal,0,0,1
+15155,14657,Men,165,60.0,120,80,Normal,Normal,0,0,0
+43085,18253,Women,158,62.0,140,90,Normal,Normal,0,0,1
+55465,14689,Men,168,99.0,90,60,Normal,Normal,0,0,0
+47267,21299,Women,160,58.0,140,80,Normal,Normal,0,0,1
+65140,21135,Men,169,68.0,120,80,Normal,Normal,0,0,1
+7003,20949,Men,169,75.0,120,80,Normal,Normal,0,0,1
+84068,18262,Men,158,68.0,140,90,Normal,Normal,0,0,0
+41905,14326,Men,162,70.0,110,70,Normal,Normal,0,0,1
+43687,21312,Men,171,81.0,120,80,Normal,Normal,0,0,0
+2328,19652,Men,160,56.0,110,70,Above Normal,Normal,0,0,1
+99484,23420,Men,151,82.0,130,98,High,Above Normal,0,0,1
+69216,20373,Women,172,88.0,120,80,Normal,Normal,1,0,1
+7319,22061,Women,156,69.0,130,90,Normal,Normal,0,0,1
+21139,17462,Men,158,60.0,120,80,Normal,Normal,0,0,1
+20423,21832,Women,160,58.0,120,80,Normal,Normal,0,1,1
+75228,18166,Women,185,103.0,140,90,Normal,Above Normal,0,0,1
+9118,18344,Men,156,64.0,110,70,Normal,Normal,0,0,1
+91037,17490,Women,174,105.0,120,70,Normal,Above Normal,0,0,1
+88312,18059,Women,170,69.0,130,90,Normal,Normal,0,0,0
+50722,14649,Women,169,79.0,100,70,Normal,Normal,0,0,1
+48728,22750,Men,160,80.0,120,70,Normal,Normal,0,0,1
+21609,18692,Women,174,65.0,120,80,Normal,Normal,0,0,1
+56923,17585,Women,173,68.0,150,90,Normal,Normal,0,0,1
+97871,20527,Women,175,80.0,130,90,High,Above Normal,0,1,1
+97738,22180,Men,160,79.0,130,100,Normal,Normal,0,0,1
+81831,16894,Women,170,66.0,120,80,Normal,Normal,1,0,1
+59149,22912,Women,153,47.0,100,70,Normal,Normal,0,0,1
+59211,22050,Women,164,62.0,120,80,Normal,Normal,0,0,0
+77193,15372,Women,181,75.0,120,80,Normal,Normal,0,0,0
+10003,14751,Women,165,69.0,130,80,Normal,Normal,0,0,1
+58225,22764,Women,170,69.0,120,80,Normal,Normal,0,0,1
+18457,19774,Men,161,77.0,150,90,High,Above Normal,0,0,1
+57585,20726,Men,170,69.0,130,80,Normal,Normal,0,0,1
+63281,20412,Women,179,83.0,120,80,Normal,Normal,1,0,1
+86541,19580,Men,169,62.0,140,90,Normal,Normal,0,0,1
+35731,21007,Men,166,73.0,125,80,High,High,0,0,1
+58871,15052,Men,158,61.0,100,70,Normal,Normal,0,0,1
+16694,19713,Men,152,68.0,125,75,Normal,Normal,0,0,1
+16,18815,Women,173,60.0,120,80,Normal,Normal,0,0,1
+92549,20185,Men,165,61.0,120,80,High,High,0,0,1
+19691,21073,Men,166,113.0,120,100,Normal,Above Normal,0,0,1
+22217,18115,Men,173,50.0,120,80,Normal,Normal,0,0,1
+91797,22636,Women,165,60.0,130,80,Normal,Normal,0,0,1
+92342,18979,Men,173,65.0,110,80,Normal,Normal,0,0,1
+27288,23225,Men,179,77.0,130,90,Normal,Normal,0,0,1
+65194,18292,Men,150,54.0,90,60,Normal,Normal,0,0,0
+11355,21212,Men,145,59.0,110,70,Above Normal,Normal,0,0,0
+37392,22690,Men,156,65.0,120,80,Normal,Normal,0,0,1
+250,23312,Men,148,50.0,120,80,Above Normal,Normal,0,0,1
+97155,21085,Women,159,45.0,120,80,Normal,Normal,1,0,1
+46238,19910,Men,160,65.0,160,100,Normal,Normal,0,0,1
+71775,17372,Men,160,78.0,150,100,Normal,Normal,0,0,1
+28188,19660,Women,165,68.0,110,80,Normal,Normal,0,0,1
+79778,22721,Women,170,76.0,130,80,High,Normal,0,0,1
+21957,22606,Men,150,73.0,120,80,Normal,Normal,0,0,1
+78989,22765,Women,170,68.0,120,80,Normal,Normal,1,1,1
+63144,23357,Men,174,70.0,120,80,Above Normal,Normal,0,0,0
+54977,18988,Men,164,65.0,120,80,Normal,Normal,0,0,1
+23955,19031,Men,167,58.0,120,80,Normal,Normal,0,0,1
+64982,18165,Men,156,66.0,140,90,Normal,Normal,0,0,1
+77301,21091,Men,170,95.0,130,79,High,Normal,0,0,0
+45501,21743,Men,157,77.0,140,90,Normal,Normal,0,0,1
+87645,21274,Women,160,55.0,120,80,Normal,Normal,0,0,0
+92990,22688,Men,168,69.0,110,80,Normal,Normal,0,0,1
+53425,14563,Women,160,69.0,110,90,High,Normal,0,0,0
+71627,20573,Men,155,55.0,125,80,Normal,Normal,0,0,0
+68930,17255,Women,166,105.0,140,90,High,High,0,0,1
+46009,21053,Men,152,82.0,120,80,Normal,Normal,0,0,0
+39690,20180,Women,169,63.0,120,80,Normal,Normal,0,0,0
+27785,18754,Men,165,87.0,110,70,Normal,Normal,0,0,1
+71310,19808,Men,152,78.0,150,90,High,Normal,0,0,0
+80917,18427,Men,155,68.0,120,80,Above Normal,Above Normal,0,0,0
+57443,16848,Women,168,65.0,120,80,Normal,Normal,0,0,1
+86818,19681,Men,175,80.0,120,80,Normal,Normal,0,0,1
+52639,21982,Men,151,68.0,170,100,Normal,Normal,0,0,1
+28139,20587,Men,156,60.0,130,80,High,High,0,0,0
+79066,16036,Men,165,125.0,160,100,Normal,Above Normal,0,0,0
+86652,15374,Men,170,79.0,160,90,Normal,Normal,0,0,1
+98804,14448,Men,172,74.0,110,80,Normal,Normal,0,0,0
+38003,16070,Women,175,64.0,120,80,Normal,Normal,1,1,1
+52975,19643,Women,172,70.0,120,80,Normal,Normal,0,0,1
+2900,23399,Women,172,89.0,120,90,Normal,Normal,0,0,1
+18728,23150,Men,156,91.0,140,1000,Above Normal,Normal,0,0,0
+77066,21364,Women,176,110.0,120,80,High,Normal,0,0,1
+47076,21094,Men,165,69.0,120,80,Above Normal,Normal,0,0,0
+27086,19163,Women,161,68.0,120,90,Normal,High,1,1,1
+7482,19010,Men,154,96.0,150,80,Normal,Normal,0,0,0
+33796,22208,Men,160,76.0,140,90,Normal,Normal,0,0,0
+9662,21117,Men,154,50.0,120,80,Normal,Normal,0,0,1
+14341,15964,Men,160,100.0,120,80,Normal,Normal,0,0,1
+78042,20539,Men,160,60.0,120,80,High,High,0,0,1
+56762,20679,Women,170,70.0,130,80,Normal,Normal,0,0,1
+30109,22562,Men,155,77.0,130,80,Normal,Normal,0,0,1
+75150,17283,Women,168,68.0,140,90,Normal,Normal,0,0,1
+88572,18349,Men,170,81.0,120,80,Normal,Normal,0,0,1
+68339,20887,Men,170,78.0,120,80,Normal,Normal,0,0,0
+51715,21973,Men,161,76.0,145,90,Normal,Normal,0,0,1
+32692,19157,Men,158,90.0,150,90,Normal,Above Normal,0,0,1
+13349,19107,Women,160,72.0,120,80,Normal,Normal,0,0,0
+50240,20423,Men,167,73.0,110,69,Normal,Normal,0,0,1
+83062,22599,Women,169,67.0,130,90,High,High,1,0,1
+11482,19842,Women,175,74.0,120,80,Normal,Normal,0,0,0
+75954,15503,Men,165,65.0,120,80,Normal,Normal,0,0,0
+7584,18329,Men,162,74.0,150,1000,Normal,Normal,1,0,1
+51810,21779,Men,168,72.0,138,88,Normal,Normal,0,0,0
+5345,22768,Men,156,75.0,120,80,Normal,Normal,0,0,0
+10181,20391,Men,164,70.0,160,100,Normal,Normal,0,0,1
+34247,21147,Men,156,69.5,150,90,Normal,Normal,0,0,1
+61429,19080,Men,155,61.0,120,70,Normal,Normal,0,1,1
+13066,19078,Men,165,71.0,120,8000,Normal,Normal,0,0,1
+20139,20439,Men,170,66.0,120,80,Normal,Normal,0,0,1
+23055,15378,Men,171,85.0,110,80,Normal,Normal,0,0,1
+36252,23472,Men,159,77.0,160,90,High,Above Normal,0,0,1
+16072,22415,Women,171,65.0,130,80,Normal,Normal,0,0,1
+41775,23370,Men,174,65.0,120,80,Normal,Normal,0,0,1
+66279,21189,Men,165,89.0,125,70,Normal,Normal,0,0,0
+19872,18492,Men,160,75.0,120,90,Normal,Normal,0,1,1
+60706,18287,Men,163,60.0,120,80,Normal,Normal,0,0,1
+15400,19805,Men,157,82.0,160,100,High,Normal,0,0,1
+8857,22560,Men,168,75.0,120,80,Normal,Normal,0,0,1
+17016,20201,Men,151,56.0,130,80,Normal,Normal,0,0,0
+85978,21330,Men,170,85.0,120,80,Normal,Normal,0,0,0
+36371,18266,Men,176,58.0,180,90,Normal,Normal,0,0,1
+37654,16834,Men,178,96.0,120,80,Normal,Normal,0,0,1
+90042,19957,Women,164,61.0,120,80,High,Normal,0,1,1
+76439,18340,Men,159,65.0,120,80,Normal,Normal,0,0,1
+17254,21363,Women,168,89.0,150,90,Normal,Normal,0,0,1
+98121,20296,Women,170,80.0,130,80,Normal,Normal,0,0,1
+37811,18989,Men,156,75.0,120,80,Normal,Normal,0,0,1
+85615,15927,Men,154,55.0,120,80,Normal,Normal,0,0,1
+59193,17644,Men,167,60.0,120,80,Normal,Normal,0,0,1
+88964,21033,Men,163,58.0,120,80,High,Normal,0,0,1
+60613,22671,Men,175,74.0,140,80,Normal,Normal,0,0,0
+80854,22752,Women,175,72.0,110,70,High,Normal,1,0,1
+3083,23403,Men,165,80.0,120,80,Normal,High,0,0,0
+97351,18409,Men,165,67.0,120,80,Normal,Above Normal,0,0,1
+69931,15091,Men,161,67.0,110,70,Above Normal,Above Normal,0,0,1
+62638,18995,Women,170,95.0,130,80,Normal,Normal,0,0,1
+55271,15947,Men,157,70.0,140,1000,Above Normal,Normal,0,0,0
+17255,18811,Women,176,100.0,110,80,Normal,Normal,0,0,1
+55041,14650,Men,165,67.0,120,80,Normal,Normal,0,0,1
+30780,21148,Women,165,78.0,120,80,Normal,Normal,1,0,1
+995,21143,Men,164,61.0,100,70,Normal,Normal,0,0,1
+254,19081,Women,175,53.0,140,80,Normal,Normal,1,0,1
+97901,21827,Women,169,57.0,120,80,Normal,Normal,0,0,1
+94771,21258,Women,178,105.0,140,100,Normal,Normal,1,0,0
+4915,22818,Women,170,70.0,120,80,Normal,Normal,0,0,1
+95174,17022,Women,169,89.0,120,80,Normal,Normal,0,0,0
+81401,18951,Men,148,50.0,120,80,Normal,Normal,0,0,1
+54510,21805,Women,184,96.0,140,90,Normal,Normal,1,1,1
+21086,21241,Men,151,60.0,110,70,Normal,Normal,0,0,1
+20106,18965,Women,169,82.0,110,70,Normal,Normal,0,1,0
+84610,18166,Men,147,63.0,120,80,Normal,Normal,0,0,1
+50799,17805,Women,185,70.0,11,120,Normal,Normal,0,0,0
+9030,22140,Men,174,65.0,120,80,Above Normal,Above Normal,0,0,1
+17821,18922,Women,170,80.0,150,90,Normal,Normal,0,0,1
+28085,22567,Women,156,70.0,130,80,Normal,Normal,0,0,0
+1182,15768,Women,165,64.0,140,90,Normal,Normal,0,0,1
+44621,15991,Women,169,80.0,130,80,Normal,Normal,0,0,1
+2365,15926,Men,150,54.0,110,70,Normal,Normal,0,0,1
+93401,17301,Women,170,86.0,120,80,Above Normal,Above Normal,0,1,0
+38941,20220,Men,164,100.0,140,90,Above Normal,Normal,0,1,1
+62602,21260,Men,164,75.0,120,80,Above Normal,Normal,0,0,1
+16549,22615,Women,173,103.0,130,80,Normal,Normal,0,0,1
+61,18207,Men,162,107.0,150,90,Above Normal,Normal,0,0,1
+37084,19555,Men,174,78.0,130,90,Normal,Normal,1,0,1
+31346,20469,Women,172,92.0,140,100,Normal,Normal,0,0,1
+20327,19905,Men,168,70.0,160,100,Normal,Normal,0,0,1
+22570,19591,Men,166,66.0,120,80,Normal,Normal,0,0,1
+73116,21308,Men,166,80.0,111,74,Above Normal,Normal,0,0,0
+38566,18795,Men,159,90.0,120,80,Normal,Normal,0,0,0
+5077,21165,Women,170,79.0,120,80,Above Normal,Normal,0,0,1
+46137,19771,Men,162,64.0,110,70,Normal,Normal,0,0,1
+58058,19499,Men,162,80.0,150,90,High,Normal,0,0,1
+30608,18750,Men,170,62.0,120,60,Normal,Normal,0,0,1
+83845,19706,Men,162,95.0,130,80,Normal,Normal,0,0,1
+1285,19619,Men,153,75.0,140,80,Normal,Normal,0,0,1
